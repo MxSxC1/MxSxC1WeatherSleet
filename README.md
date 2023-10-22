@@ -23,7 +23,7 @@ This has been tested in Vanilla and with multiple shaders used by The Dark Is A 
 
 This version deliberately uses blurred images with additional, barely seen, Alpha "residue" around the flakes.
 
-This is entirely deliberate as it looks awesome in some packs, and produces the "sleet" effect. But in some cases it wont be wanted, and looks awful with a few shadsr.
+This is entirely deliberate as it looks awesome in some packs, and produces the "sleet" effect. But in some cases it wont be wanted, and looks awful with a few shaders.
 
 Another version of pack with Crisp Snow doesn't have this.
 
@@ -39,10 +39,12 @@ High Resolution Snow. Can be insanely intensive at times, but much better qualit
 
 Downpour - Very Heavy Rain
 
-Dancing Through Rainbows - This Is Crazy & Can Makes You Feel Sick - Not quite sure have a use for it so low priority.
+Dancing Through Rainbows - This Is Crazy & Can Make You Feel Sick - Not quite sure have a use for it so low priority.
 
 MxSxC1
 
 The Dark Is A Cold Lonely Shadow
+
+We are looking at publishing to Modrinth. We are under no circumstances going to look into Curse/Forge/Overwolf - unless they mend their ways. Then again we did produce TechnoPiggy, and are considering giving him wings...
 
 www.miscreat.co.uk
